@@ -17,6 +17,9 @@ Welcome to the Next.js 13 SaaS AI Platform repository! This project provides a p
 - 🎭 Reusable layout components
 - 📂 Folder structure following Next.js 13 App Router conventions
 
+![Platform Overview](https://github.com/cyber-bytezz/AI-xD/assets/130319315/bdc2f56a-457b-4a5b-a080-22e0368e585f)
+
+
 ## 🧠 AI-Powered Features
 
 Harness the power of AI to enhance your platform's capabilities. This SaaS AI Platform includes cutting-edge features for various types of content generation:
