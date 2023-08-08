@@ -1,6 +1,8 @@
-# 🚀 Next.js 13 SaaS AI Platform
+# 🚀 Next.js 13 SaaS AI-xD Platform
 
 Welcome to the Next.js 13 SaaS AI Platform repository! This project provides a powerful AI-driven platform built with Next.js, React, Tailwind, Prisma, and Stripe. It comes packed with the following features:
+
+```Loved By The Namw Of AI-xD```
 
 ## ✨ Features
 
